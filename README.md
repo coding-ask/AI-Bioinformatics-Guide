@@ -1,4 +1,5 @@
 # AI Bioinformatics Guide
+https://ai-bioinformatics-guide-8khab4urffhurn8jwenhhs.streamlit.app/
 
 An AI-powered bioinformatics learning assistant built using **Python, Streamlit, LangChain and Google Gemini**.
 
