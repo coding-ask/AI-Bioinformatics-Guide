@@ -21,7 +21,7 @@ if not api_key:
 
 model_name = (
     os.getenv("MODEL_NAME")
-    or st.secrets.get("MODEL_NAME", "gemini-2.5-flash")
+    or st.secrets.get("MODEL_NAME", "gemini-3.5-flash")
 )
 
     llm = ChatGoogleGenerativeAI(
