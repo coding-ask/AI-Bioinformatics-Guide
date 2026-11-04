@@ -1,4 +1,4 @@
-https://ai-bioinformatics-guide-ymxncxpdqzvyfz6sj8zawm.streamlit.app/
+[https://ai-bioinformatics-guide-ymxncxpdqzvyfz6sj8zawm.streamlit.app/](http://localhost:8501/)
 
 # AI Bioinformatics Guide
 
