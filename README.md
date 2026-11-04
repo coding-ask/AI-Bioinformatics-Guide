@@ -1,5 +1,3 @@
-[https://ai-bioinformatics-guide-ymxncxpdqzvyfz6sj8zawm.streamlit.app/](http://localhost:8501/)
-
 # AI Bioinformatics Guide
 
 An AI-powered bioinformatics learning assistant built using **Python, Streamlit, LangChain and Google Gemini**.
